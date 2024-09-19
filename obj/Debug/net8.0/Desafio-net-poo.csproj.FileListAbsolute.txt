@@ -1,0 +1,14 @@
+C:\Users\tarci\Documents\Bootcamp FullStack XP\Desafio-net-poo\obj\Debug\net8.0\Desafio-net-poo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tarci\Documents\Bootcamp FullStack XP\Desafio-net-poo\obj\Debug\net8.0\Desafio-net-poo.AssemblyInfoInputs.cache
+C:\Users\tarci\Documents\Bootcamp FullStack XP\Desafio-net-poo\obj\Debug\net8.0\Desafio-net-poo.AssemblyInfo.cs
+C:\Users\tarci\Documents\Bootcamp FullStack XP\Desafio-net-poo\obj\Debug\net8.0\Desafio-net-poo.csproj.CoreCompileInputs.cache
+C:\Users\tarci\Documents\Bootcamp FullStack XP\Desafio-net-poo\bin\Debug\net8.0\Desafio-net-poo.exe
+C:\Users\tarci\Documents\Bootcamp FullStack XP\Desafio-net-poo\bin\Debug\net8.0\Desafio-net-poo.deps.json
+C:\Users\tarci\Documents\Bootcamp FullStack XP\Desafio-net-poo\bin\Debug\net8.0\Desafio-net-poo.runtimeconfig.json
+C:\Users\tarci\Documents\Bootcamp FullStack XP\Desafio-net-poo\bin\Debug\net8.0\Desafio-net-poo.dll
+C:\Users\tarci\Documents\Bootcamp FullStack XP\Desafio-net-poo\bin\Debug\net8.0\Desafio-net-poo.pdb
+C:\Users\tarci\Documents\Bootcamp FullStack XP\Desafio-net-poo\obj\Debug\net8.0\Desafio-net-poo.dll
+C:\Users\tarci\Documents\Bootcamp FullStack XP\Desafio-net-poo\obj\Debug\net8.0\refint\Desafio-net-poo.dll
+C:\Users\tarci\Documents\Bootcamp FullStack XP\Desafio-net-poo\obj\Debug\net8.0\Desafio-net-poo.pdb
+C:\Users\tarci\Documents\Bootcamp FullStack XP\Desafio-net-poo\obj\Debug\net8.0\Desafio-net-poo.genruntimeconfig.cache
+C:\Users\tarci\Documents\Bootcamp FullStack XP\Desafio-net-poo\obj\Debug\net8.0\ref\Desafio-net-poo.dll
